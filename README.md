@@ -47,9 +47,9 @@ python -m pip install webdriver-manager
 
 ## Setting up Project
 
-### Clone
 
-**👉 [Clone this Repository](https://github.com/Fatimazza/SeleniumTest/)** through Terminal or Command Prompt
+
+
 
 ### Open the Project on Editor
 
